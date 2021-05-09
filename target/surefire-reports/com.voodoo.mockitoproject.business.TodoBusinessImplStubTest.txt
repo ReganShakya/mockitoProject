@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.voodoo.mockitoproject.business.TodoBusinessImplStubTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in com.voodoo.mockitoproject.business.TodoBusinessImplStubTest
+testRetrieveTodosRelatedToStpring_usingAStub(com.voodoo.mockitoproject.business.TodoBusinessImplStubTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<1>
+	at com.voodoo.mockitoproject.business.TodoBusinessImplStubTest.testRetrieveTodosRelatedToStpring_usingAStub(TodoBusinessImplStubTest.java:23)
+
